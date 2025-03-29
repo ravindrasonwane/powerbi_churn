@@ -1,6 +1,6 @@
 # **CUSTOMER CHURN DASHBOARD**  
 
-### **Dashboard Link**: [Insert Power BI Link]  
+### **Dashboard Link**: (https://app.powerbi.com/links/8LxNXZD37a?ctid=95686b71-e284-42b2-9911-db9bb2d904f3&pbi_source=linkShare)
 
 ## **Problem Statement**  
 
